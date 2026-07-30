@@ -6,7 +6,7 @@ A REDO market publishing system for Telegram with reliable multi-destination tra
 
 | | |
 |---|---|
-| Live bot | [REDO Prices on Telegram](https://t.me/redopricesbot) |
+| Price channel | [Open @redopricess](https://t.me/redopricess) |
 | Audience | REDO community operators and followers |
 | Role | Product design, implementation, reliability, and deployment by Nic |
 | Status | Active production service |
